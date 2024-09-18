@@ -18,3 +18,12 @@
 </br>
 
 Follow us for more(⁀ᗢ⁀)
+
+Фото примеры работы бота:
+<p align="middle">
+  <img src="/example_bot/example_1.jpg" width="300" />
+</p>
+<p align="middle">
+  <img src="/example_bot/example_2.jpg" width="300" /> 
+  <img src="/example_bot/example_3.jpg" width="300" />
+</p>
